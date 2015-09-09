@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Archipelago\Project(Archipelago)\Project(Archipelago)\Assets\Scripts\Objects\BaseProperties.cs">
+    <Files>
+      <File FileName="..\..\Archipelago\Project(Archipelago)\Project(Archipelago)\Assets\Scripts\Objects\BaseProperties.cs" Line="10" Column="1" />
+      <File FileName="..\..\Archipelago\Project(Archipelago)\Project(Archipelago)\Assets\Scripts\BaseUnit.cs" Line="6" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
